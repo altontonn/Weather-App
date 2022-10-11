@@ -1,1 +1,24 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
 
+.nav ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+.nav ul li {
+  padding: 0 1rem;
+  font-size: 1.2rem;
+  font-family: cursive;
+}
+
+.nav ul li:hover {
+  cursor: pointer;
+}
+
+ul li a {
+  text-decoration: none;
+}
