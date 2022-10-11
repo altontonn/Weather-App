@@ -1,13 +1,13 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Home from './Home';
-import Details from './Details';
+import Contact from './Contact';
 
 function RouteLink() {
   return (
     <Routes>
       <Route path="/" element={<Home />} />
-      <Route path="/details" element={<Details />} />
+      <Route path="/contact" element={<Contact />} />
     </Routes>
   );
 }
