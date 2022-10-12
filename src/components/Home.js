@@ -17,6 +17,7 @@ function Home() {
   return (
     <div>
       <input
+        className="input"
         type="text"
         value={city}
         placeholder="Enter a city"
@@ -25,18 +26,19 @@ function Home() {
       />
       <div className="sectionOne">
         <div className="sectorOne">
-          {data.data ? <p>{data.data[0].city_name}</p> : null}
+          {data.data ? <p className="city">{data.data[0].city_name}</p> : null}
           {data.data ? (
-            <h1>
+            <h1 className="temp">
               {data.data[0].temp.toFixed()}
               °F
             </h1>
           ) : null}
         </div>
         <div className="sectorTwo">
-          {data.data ? <p>{data.data[0].weather.description}</p> : null}
+          {data.data ? <p className="description">{data.data[0].weather.icon}</p> : null}
         </div>
       </div>
+      <p className="divider">More Details</p>
       <div className="sectionTwo">
         <div className="left">
           {data.data ? <p>{data.data[0].ob_time}</p> : null}
