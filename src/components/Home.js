@@ -1,18 +1,15 @@
 import React, { useState } from 'react';
-import axios from 'axios';
 
 function Home() {
   const [data, setData] = useState({});
   const [city, setCity] = useState('');
   const url = `https://api.weatherbit.io/v2.0/current?city=${city}&key=104126515dcd47909287677b53fb12dd&minutely`;
   // const weather = useSelector((state) => state.weather);
-  const fetchWeather = (e) => {
+  const fetchWeather = async (e) => {
     if (e.key === 'Enter') {
-      axios.get(url).then((response) => {
-        setData(response.data);
-        // eslint-disable-next-line
-        console.log(response.data);
-      });
+      const response = await fetch(url);
+      const weather = await response.json();
+      setData(weather);
       setCity('');
     }
   };
