@@ -12,12 +12,16 @@ body {
   font-weight: bold;
 }
 
+.inputContainer {
+  display: flex;
+  justify-content: center;
+}
+
 .input {
   border: none;
   padding: 10px;
   margin: 2.5rem;
   border-radius: 10px;
-  margin-left: 40vw;
   outline: none;
 }
 
@@ -52,6 +56,19 @@ ul li a {
   width: 50%;
   margin: 10px auto;
   justify-content: space-around;
+}
+
+@media screen and (max-width: 600px) {
+  .sectionOne {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+
+  .sectorOne {
+    margin-bottom: 1rem;
+  }
 }
 
 .sectorOne {
@@ -95,6 +112,23 @@ ul li a {
   margin: 0 auto;
 }
 
+@media screen and (max-width: 600px) {
+  .sectionTwo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+
+  .left {
+    margin-bottom: 1rem;
+  }
+
+  .middle {
+    margin-bottom: 1rem;
+  }
+}
+
 .left,
 .middle,
 .right {
@@ -105,4 +139,29 @@ ul li a {
   flex-direction: column;
   align-items: center;
   border-radius: 10px;
+}
+
+.contact h1 {
+  text-align: center;
+}
+
+.blockOne {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  font-size: 1.3rem;
+}
+
+.linkedin,
+.twitter,
+.github {
+  width: 8rem;
+  background-color: #ffa500;
+  padding: 3px;
+  border-radius: 5px;
 }

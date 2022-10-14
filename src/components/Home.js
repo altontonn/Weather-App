@@ -16,29 +16,31 @@ function Home() {
   // const dispatch = useDispatch;
   return (
     <div>
-      <input
-        className="input"
-        type="text"
-        value={city}
-        placeholder="Enter a city"
-        onChange={(e) => setCity(e.target.value)}
-        onKeyPress={fetchWeather}
-      />
+      <div className="inputContainer">
+        <input
+          type="text"
+          value={city}
+          className="input"
+          placeholder="Enter a city"
+          onChange={(e) => setCity(e.target.value)}
+          onKeyPress={fetchWeather}
+        />
+      </div>
       <div className="sectionOne">
         <div className="sectorOne">
-          {data.data ? <p className="city">{data.data[0].city_name}</p> : null}
+          {data.data ? <p>{data.data[0].city_name}</p> : null}
           {data.data ? (
-            <h1 className="temp">
+            <h1>
               {data.data[0].temp.toFixed()}
               °F
             </h1>
           ) : null}
         </div>
         <div className="sectorTwo">
-          {data.data ? <p className="description">{data.data[0].weather.icon}</p> : null}
+          {data.data ? <p>{data.data[0].weather.description}</p> : null}
         </div>
       </div>
-      <p className="divider">More Details</p>
+      <div className="divider">More Details</div>
       <div className="sectionTwo">
         <div className="left">
           {data.data ? <p>{data.data[0].ob_time}</p> : null}
