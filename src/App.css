@@ -122,10 +122,17 @@ ul li a {
 
   .left {
     margin-bottom: 1rem;
+    padding: 1rem;
   }
 
   .middle {
     margin-bottom: 1rem;
+    padding: 1rem;
+  }
+
+  .right {
+    margin-bottom: 1rem;
+    padding: 1rem;
   }
 }
 
