@@ -21,8 +21,8 @@
 
 
 ## Live Demo
-[See Live](https://rocket-mission.netlify.app/)
-[Video]()
+[See Live](https://global-site.netlify.app/)
+[Video](https://drive.google.com/file/d/1GTossDgn3VLZwj_FP_32rnBhbuR6KSKQ/view?usp=sharing)
 
 ## 🧰 Tools
 
