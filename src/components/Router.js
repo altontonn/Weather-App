@@ -6,8 +6,8 @@ import Details from './Details';
 function RouteLink() {
   return (
     <Routes>
-      <Route path="*" element={<Home />} />
-      <Route path="/details" element={<Details />} />
+      <Route path="/" element={<Home />} />
+      <Route path="/Details/:cityName" element={<Details />} />
     </Routes>
   );
 }

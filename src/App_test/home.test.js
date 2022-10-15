@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import Home from '../components/Home';
+import Home from './mock/home';
 
 const mockedWeather = {
   count: 1,

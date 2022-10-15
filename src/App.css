@@ -164,29 +164,26 @@ ul li a {
   font-size: 1.3rem;
 }
 
-.linkedin,
-.twitter,
-.github {
-  width: 8rem;
-  background-color: #ffa500;
-  padding: 3px;
-  border-radius: 5px;
-}
-
 .continent {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
 
+@media screen and (max-width: 600px) {
+  .continent {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 .count {
   border: 1px solid;
-  background-color: rgba(199, 218, 250, 0.849); 
-  margin: 2rem;
-  height: 13rem;
+  background-color: rgba(199, 218, 250, 0.849);
+  height: auto;
 }
 
 .text-primary {
-  color: #0000ff;
+  color: #00f;
   font-size: 1.2rem;
   text-align: center;
 }
