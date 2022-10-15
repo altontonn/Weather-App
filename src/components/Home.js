@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Continent from './Continent';
 
 function Home() {
   const [data, setData] = useState({});
@@ -61,6 +62,7 @@ function Home() {
           <p>Wind Speed</p>
         </div>
       </div>
+      <Continent />
     </div>
   );
 }
