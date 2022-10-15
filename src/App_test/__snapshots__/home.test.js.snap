@@ -17,14 +17,7 @@ Object {
         </div>
         <div
           class="sectionOne"
-        >
-          <div
-            class="sectorOne"
-          />
-          <div
-            class="sectorTwo"
-          />
-        </div>
+        />
         <div
           class="divider"
         >
@@ -74,14 +67,7 @@ Object {
       </div>
       <div
         class="sectionOne"
-      >
-        <div
-          class="sectorOne"
-        />
-        <div
-          class="sectorTwo"
-        />
-      </div>
+      />
       <div
         class="divider"
       >

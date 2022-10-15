@@ -11,9 +11,6 @@ function Home() {
         />
       </div>
       <div className="sectionOne">
-        <div className="sectorOne">
-        </div>
-        <div className="sectorTwo" />
       </div>
       <div className="divider">More Details</div>
       <div className="sectionTwo">
