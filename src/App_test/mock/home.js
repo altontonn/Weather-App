@@ -9,8 +9,7 @@ function Home() {
           className="input"
           placeholder="Enter a city"
         />
-      </div>
-      <div className="sectionOne">
+        temp
       </div>
       <div className="divider">More Details</div>
       <div className="sectionTwo">

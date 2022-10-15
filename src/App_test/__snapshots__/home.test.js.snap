@@ -14,10 +14,8 @@ Object {
             placeholder="Enter a city"
             type="text"
           />
+          temp
         </div>
-        <div
-          class="sectionOne"
-        />
         <div
           class="divider"
         >
@@ -64,10 +62,8 @@ Object {
           placeholder="Enter a city"
           type="text"
         />
+        temp
       </div>
-      <div
-        class="sectionOne"
-      />
       <div
         class="divider"
       >
