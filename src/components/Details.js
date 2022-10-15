@@ -10,7 +10,7 @@ function Details() {
 
   useEffect(() => {
     dispatch(fetchCity(cityName));
-  }, []);
+  }, [cityName, dispatch]);
 
   return (
     <div className="continent">
