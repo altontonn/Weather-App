@@ -6,20 +6,20 @@ Object {
   "baseElement": <body>
     <div>
       <div>
-        <input
-          placeholder="Enter a city"
-          type="text"
-          value=""
-        />
         <div
-          class="sectionOne"
+          class="inputContainer"
         >
-          <div
-            class="sectorOne"
+          <input
+            class="input"
+            placeholder="Enter a city"
+            type="text"
           />
-          <div
-            class="sectorTwo"
-          />
+          temp
+        </div>
+        <div
+          class="divider"
+        >
+          More Details
         </div>
         <div
           class="sectionTwo"
@@ -42,6 +42,9 @@ Object {
             class="right"
           >
             <p>
+              MPH
+            </p>
+            <p>
               Wind Speed
             </p>
           </div>
@@ -51,20 +54,20 @@ Object {
   </body>,
   "container": <div>
     <div>
-      <input
-        placeholder="Enter a city"
-        type="text"
-        value=""
-      />
       <div
-        class="sectionOne"
+        class="inputContainer"
       >
-        <div
-          class="sectorOne"
+        <input
+          class="input"
+          placeholder="Enter a city"
+          type="text"
         />
-        <div
-          class="sectorTwo"
-        />
+        temp
+      </div>
+      <div
+        class="divider"
+      >
+        More Details
       </div>
       <div
         class="sectionTwo"
@@ -86,6 +89,9 @@ Object {
         <div
           class="right"
         >
+          <p>
+            MPH
+          </p>
           <p>
             Wind Speed
           </p>

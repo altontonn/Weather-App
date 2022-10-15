@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Continent from './Continent';
 
 function Home() {
   const [data, setData] = useState({});
@@ -16,13 +17,16 @@ function Home() {
   // const dispatch = useDispatch;
   return (
     <div>
-      <input
-        type="text"
-        value={city}
-        placeholder="Enter a city"
-        onChange={(e) => setCity(e.target.value)}
-        onKeyPress={fetchWeather}
-      />
+      <div className="inputContainer">
+        <input
+          type="text"
+          value={city}
+          className="input"
+          placeholder="Enter a city"
+          onChange={(e) => setCity(e.target.value)}
+          onKeyPress={fetchWeather}
+        />
+      </div>
       <div className="sectionOne">
         <div className="sectorOne">
           {data.data ? <p>{data.data[0].city_name}</p> : null}
@@ -37,6 +41,7 @@ function Home() {
           {data.data ? <p>{data.data[0].weather.description}</p> : null}
         </div>
       </div>
+      <div className="divider">More Details</div>
       <div className="sectionTwo">
         <div className="left">
           {data.data ? <p>{data.data[0].ob_time}</p> : null}
@@ -57,6 +62,7 @@ function Home() {
           <p>Wind Speed</p>
         </div>
       </div>
+      <Continent />
     </div>
   );
 }
