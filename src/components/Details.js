@@ -14,28 +14,29 @@ function Details() {
 
   return (
     <div className="continent">
-      <NavLink className="back" to="/"><img src="https://img.icons8.com/external-others-inmotus-design/67/000000/external-Back-basic-elements-others-inmotus-design.png" alt="back" /></NavLink>
+      <NavLink className="back" to="/">
+        <img
+          src="https://img.icons8.com/external-others-inmotus-design/67/000000/external-Back-basic-elements-others-inmotus-design.png"
+          alt="back"
+        />
+      </NavLink>
       <div className="count" key={data.id}>
         <p className="text-primary">{data.data}</p>
         <ul>
           <li>
             City:
-            {' '}
             {data.city_name}
           </li>
           <li>
             Temp:
-            {' '}
             {data.temp}
           </li>
           <li>
             Datetime:
-            {' '}
             {data.datetime}
           </li>
           <li>
             Wind Speed:
-            {' '}
             {data.wind_spd}
           </li>
         </ul>
