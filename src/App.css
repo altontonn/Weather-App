@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
 
+:root {
+  --skyblue: #c9e7f3;
+  --black: #000;
+}
+
 html,
 body {
   font-family: "Lato", sans-serif;
@@ -10,6 +15,10 @@ body {
   background-color: rgba(7, 100, 250, 0.849);
   color: #fff;
   font-weight: bold;
+  background-image: url('./img/clear.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .inputContainer {
@@ -178,7 +187,10 @@ ul li a {
 
 .count {
   border: 1px solid;
-  background-color: rgba(199, 218, 250, 0.849);
+  background-color: var(--skyblue);
+  opacity: 0.6;
+  color: var(--black);
+  font-weight: bolder;
   height: auto;
 }
 
