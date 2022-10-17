@@ -22,7 +22,7 @@
 
 ## Live Demo
 [See Live](https://global-site.netlify.app/)
-[Video](https://drive.google.com/file/d/1GTossDgn3VLZwj_FP_32rnBhbuR6KSKQ/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1t36UZ9xz8xaP9TEY8giwiFKu-2p9ShO-/view?usp=sharing)
 
 ## 🧰 Tools
 
@@ -42,11 +42,11 @@ git clone https://github.com/altontonn/Weather-App.git
 
 - Once the files are downloaded or cloned on your machine, open the "Weather-App" folder in [Visual Studio Code(VSCode)](https://code.visualstudio.com/)
 
-## 🙎🏾‍♂️
+## 🙎🏾‍♂️ Author
 
 - GitHub: [Newton Alumasa](https://github.com/altontonn)
 
-⭐️ CREDIT
+## ⭐️ CREDIT
 - I would like to give credit to @Nelson Sakwa on Behance the author of the original design for the amazing design
 
 ## 🤝 Contributing

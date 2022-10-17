@@ -4,11 +4,7 @@ function Home() {
   return (
     <div>
       <div className="inputContainer">
-        <input
-          type="text"
-          className="input"
-          placeholder="Enter a city"
-        />
+        <input type="text" className="input" placeholder="Enter a city" />
         temp
       </div>
       <div className="divider">More Details</div>
@@ -20,9 +16,7 @@ function Home() {
           <p>Timezone</p>
         </div>
         <div className="right">
-          <p>
-            MPH
-          </p>
+          <p>MPH</p>
 
           <p>Wind Speed</p>
         </div>
