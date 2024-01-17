@@ -29,36 +29,36 @@ function Home() {
       </div>
       <div className="sectionOne">
         <div className="sectorOne">
-          {data.data ? <p>{data.data[0].city_name}</p> : null}
-          {data.data ? (
+          {data ? <p>{data.name}</p> : null}
+          {data.main ? (
             <h1>
-              {data.data[0].temp.toFixed()}
+              {data.main.temp}
               °F
             </h1>
           ) : null}
         </div>
-        <div className="sectorTwo">
-          {data.data ? <p>{data.data[0].weather.description}</p> : null}
-        </div>
+        {/* <div className="sectorTwo">
+          {data ? <p>{data[0].weather.description}</p> : null}
+        </div> */}
       </div>
       <div className="divider">More Details</div>
       <div className="sectionTwo">
-        <div className="left">
-          {data.data ? <p>{data.data[0].ob_time}</p> : null}
+        {/* <div className="left">
+          {data ? <p>{data.data[0].ob_time}</p> : null}
           <p>Date and Time</p>
-        </div>
-        <div className="middle">
+        </div> */}
+        {/* <div className="middle">
           {data.data ? <p>{data.data[0].timezone}</p> : null}
           <p>Timezone</p>
-        </div>
+        </div> */}
         <div className="right">
-          {data.data ? (
+          {/* {data.data ? (
             <p>
               {data.data[0].wind_spd}
               {' '}
               MPH
             </p>
-          ) : null}
+          ) : null} */}
           <p>Wind Speed</p>
         </div>
       </div>
