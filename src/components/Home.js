@@ -4,7 +4,7 @@ import Continent from './Continent';
 function Home() {
   const [data, setData] = useState({});
   const [city, setCity] = useState('');
-  const url = `https://api.weatherbit.io/v2.0/current?city=${city}&key=104126515dcd47909287677b53fb12dd&minutely`;
+  const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=3d36ecb5651722754fc2cc601e6ee784`;
   // const weather = useSelector((state) => state.weather);
   const fetchWeather = async (e) => {
     if (e.key === 'Enter') {
