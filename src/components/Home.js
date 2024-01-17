@@ -37,9 +37,13 @@ function Home() {
             </h1>
           ) : null}
         </div>
-        {/* <div className="sectorTwo">
-          {data ? <p>{data[0].weather.description}</p> : null}
-        </div> */}
+        <div className="sectorTwo">
+          {data.weather ? (
+            <p>
+              {data.weather[0].main}
+            </p>
+          ) : null}
+        </div>
       </div>
       <div className="divider">More Details</div>
       <div className="sectionTwo">
