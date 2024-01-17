@@ -47,22 +47,19 @@ function Home() {
       </div>
       <div className="divider">More Details</div>
       <div className="sectionTwo">
-        {/* <div className="left">
-          {data ? <p>{data.data[0].ob_time}</p> : null}
-          <p>Date and Time</p>
-        </div> */}
-        {/* <div className="middle">
-          {data.data ? <p>{data.data[0].timezone}</p> : null}
-          <p>Timezone</p>
-        </div> */}
+        {data.main ? (
+          <h1>
+            {data.main.humidity}
+            °F
+          </h1>
+        ) : null}
         <div className="right">
-          {/* {data.data ? (
-            <p>
-              {data.data[0].wind_spd}
-              {' '}
-              MPH
-            </p>
-          ) : null} */}
+          {data.wind ? (
+            <h1>
+              {data.wind.speed}
+              °F
+            </h1>
+          ) : null}
           <p>Wind Speed</p>
         </div>
       </div>
