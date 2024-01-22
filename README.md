@@ -7,9 +7,6 @@
 **Additional description about the project and its features.**
 - This API returns current conditions from the global of sub-hourly reporting weather stations, as well as relevant atmospheric meso-analyses (For example, the RTMA). Every API request will return the nearest, and most recent observation.
 
-## Linter for React
-- [Linter](https://github.com/microverseinc/linters-config/tree/master/react-redux)
-
 ## ⚒️ Built With
 
 - REACT, REDUX, JEST
