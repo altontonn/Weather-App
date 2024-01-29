@@ -63,17 +63,14 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-
+## Live Demo
+[See Live](https://global-site.netlify.app/)
 
 ## Run Project
 
 - `npm install`
 - `npm run start # this will make webpack watching for your changes in code`
 
-
-## Live Demo
-[See Live](https://global-site.netlify.app/)
-[Video](https://drive.google.com/file/d/1t36UZ9xz8xaP9TEY8giwiFKu-2p9ShO-/view?usp=sharing)
 
 ## 🧰 Tools
 
