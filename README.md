@@ -29,9 +29,31 @@
 **Additional description about the project and its features.**
 - This API returns current conditions from the global of sub-hourly reporting weather stations, as well as relevant atmospheric meso-analyses (For example, the RTMA). Every API request will return the nearest, and most recent observation.
 
-## ⚒️ Built With
+## 🛠 Built With <a name="built-with"></a>
 
-- REACT, REDUX, JEST
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>React</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>React</summary>
+  <ul>
+    <li><a href="https://redux.js.org/">React.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>React</summary>
+  <ul>
+    <li><a href="https://jestjs.io/">React.js</a></li>
+  </ul>
+</details>
+
 
 ## Run Project
 
