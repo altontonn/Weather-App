@@ -37,16 +37,16 @@
 </details>
 
 <details>
-  <summary>React</summary>
+  <summary>Redux</summary>
   <ul>
-    <li><a href="https://redux.js.org/">React.js</a></li>
+    <li><a href="https://redux.js.org/">Redux</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>React</summary>
+  <summary>Jest</summary>
   <ul>
-    <li><a href="https://jestjs.io/">React.js</a></li>
+    <li><a href="https://jestjs.io/">Jest</a></li>
   </ul>
 </details>
 
