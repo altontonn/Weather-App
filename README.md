@@ -132,17 +132,6 @@ The following tools help make it easier to run this code.
 - [Visual Studio Code](https://code.visualstudio.com/): A source code editor
 - `Git`
 
-## 🔥 Getting Started
-
-If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
-[Download the ZIP from this location](https://github.com/altontonn/Weather-App//archive/refs/heads/main.zip), or run the following [git clone](https://github.com/altontonn/Weather-App) command to clone the files to your machine:
-
-```bash
-git clone https://github.com/altontonn/Weather-App.git
-```
-
-- Once the files are downloaded or cloned on your machine, open the "Weather-App" folder in [Visual Studio Code(VSCode)](https://code.visualstudio.com/)
-
 ## 🙎🏾‍♂️ Author
 
 - GitHub: [Newton Alumasa](https://github.com/altontonn)
