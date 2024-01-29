@@ -2,8 +2,6 @@
 
 # WEATHER APP
 
-> Weather App
-
 **Additional description about the project and its features.**
 - This API returns current conditions from the global of sub-hourly reporting weather stations, as well as relevant atmospheric meso-analyses (For example, the RTMA). Every API request will return the nearest, and most recent observation.
 
