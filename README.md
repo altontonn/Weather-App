@@ -132,7 +132,7 @@ The following tools help make it easier to run this code.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS-->
+<!-- AUTHOR-->
 
 ## 👥 Author <a name="author"></a>
 <br>
