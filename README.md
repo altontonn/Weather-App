@@ -132,9 +132,18 @@ The following tools help make it easier to run this code.
 - [Visual Studio Code](https://code.visualstudio.com/): A source code editor
 - `Git`
 
-## 🙎🏾‍♂️ Author
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- GitHub: [Newton Alumasa](https://github.com/altontonn)
+<!-- AUTHORS-->
+
+## 👥 Author <a name="author"></a>
+<br>
+
+👤 **Newton Alumasa**
+
+- GitHub: [altontonn](https://github.com/altontonn/)
+- LinkedIn: [newton-alumasa](https://www.linkedin.com/in/newton-alumasa/)
+- Twitter: [AlumasaNewton](https://twitter.com/AlumasaNewton)
 
 ## ⭐️ CREDIT
 - I would like to give credit to @Nelson Sakwa on Behance the author of the original design for the amazing design
