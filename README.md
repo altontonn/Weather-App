@@ -172,13 +172,13 @@ If you like this project then please give a ⭐️ and also share your feeback u
 ## ⭐️ CREDIT
 - I would like to give credit to @Nelson Sakwa on Behance the author of the original design for the amazing design
 
-## Acknowledgements
+<!-- ACKNOWLEDGEMENTS -->
 
-- Microverse
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-## 👊🏾 Show your support
+- ❤️ Microverse
 
-Give a ⭐️ if you like this project!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License
 
