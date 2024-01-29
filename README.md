@@ -180,6 +180,10 @@ If you like this project then please give a ⭐️ and also share your feeback u
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](https://github.com/altontonn/Weather-App/blob/dev/LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
