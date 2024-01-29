@@ -161,14 +161,16 @@ Feel free to check the [issues page](https://github.com/altontonn/Weather-App/is
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project then please give a ⭐️ and also share your feeback using github issues.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## ⭐️ CREDIT
 - I would like to give credit to @Nelson Sakwa on Behance the author of the original design for the amazing design
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/altontonn/Weather-App//issues).
 
 ## Acknowledgements
 
