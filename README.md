@@ -149,6 +149,18 @@ The following tools help make it easier to run this code.
 
 - [ ] **[Improve the weather-app UI]**
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/altontonn/Weather-App/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## ⭐️ CREDIT
 - I would like to give credit to @Nelson Sakwa on Behance the author of the original design for the amazing design
 
