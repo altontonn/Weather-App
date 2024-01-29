@@ -143,6 +143,12 @@ The following tools help make it easier to run this code.
 - LinkedIn: [newton-alumasa](https://www.linkedin.com/in/newton-alumasa/)
 - Twitter: [AlumasaNewton](https://twitter.com/AlumasaNewton)
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Improve the weather-app UI]**
+
 ## ⭐️ CREDIT
 - I would like to give credit to @Nelson Sakwa on Behance the author of the original design for the amazing design
 
