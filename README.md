@@ -13,8 +13,6 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Run](#run)
-    - [Test](#test)
-    - [Usage](#usage)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
