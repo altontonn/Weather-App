@@ -117,7 +117,6 @@ Install this project with:
 
 ### Run
   *  Run `npm start` to start the server.
-  *  In your browser, go to `http://localhost:3000`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
