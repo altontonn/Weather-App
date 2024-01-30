@@ -62,7 +62,7 @@
 
 <!-- LIVE DEMO -->
 ## Live Demo
-[See Live](https://global-site.netlify.app/)
+[live demo](https://global-site.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
