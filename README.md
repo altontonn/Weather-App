@@ -136,7 +136,7 @@ The following tools help make it easier to run this code.
 
 👤 **Newton Alumasa**
 
-- GitHub: [altontonn](https://github.com/altontonn/)
+- [GitHub](https://github.com/altontonn/)
 - LinkedIn: [newton-alumasa](https://www.linkedin.com/in/newton-alumasa/)
 - Twitter: [AlumasaNewton](https://twitter.com/AlumasaNewton)
 
