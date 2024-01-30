@@ -137,7 +137,7 @@ The following tools help make it easier to run this code.
 👤 **Newton Alumasa**
 
 - [GitHub](https://github.com/altontonn/)
-- LinkedIn: [newton-alumasa](https://www.linkedin.com/in/newton-alumasa/)
+- [LinkedIn](https://www.linkedin.com/in/newton-alumasa/)
 - Twitter: [AlumasaNewton](https://twitter.com/AlumasaNewton)
 
 <!-- FUTURE FEATURES -->
